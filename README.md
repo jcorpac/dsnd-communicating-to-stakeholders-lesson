@@ -26,9 +26,12 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 3 notebooks and one python script available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+* **`BootcampStats.ipynb`**: This notebook analyzes the Stack Overflow survey data to understand the demographics, education, and job placement of bootcamp graduates.
+* **`HowToBreakIntoTheField.ipynb`**: This notebook explores the survey data to identify the most recommended ways to break into the software development field, according to professionals in the industry. It also analyzes the relationship between education, salary, and job satisfaction.
+* **`Salary.ipynb`**: This notebook focuses on predicting developer salaries using the survey data. It starts with a simple linear regression model and progressively builds a more complex model by incorporating categorical variables and addressing issues like missing data and overfitting.
+* **`Salary_ML.py`**: This Python script contains the code to build and evaluate the final salary prediction model. It includes functions for data cleaning, feature engineering, and model training.
 
 ## Results<a name="results"></a>
 
